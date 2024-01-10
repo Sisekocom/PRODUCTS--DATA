@@ -27,14 +27,14 @@
             "place": "Icollege",
             "type": "NQF level 4 certificate",
             "certificate": "https://drive.google.com/file/d/1qd2xS-HvI4c_C4vf1-Z1R_bPxzF7SZ-t/view"
-        },
+        }
 
     ],
     "skills": [
         {
             "title": "Web Development",
             "experience": "I have 3 months of experience in web development using the following technologies: HTML, CSS, Bootstrap, and Javascript. I am still building applications using the mentioned technologies."
-        },
+        }
  
     ],
     "testimonials": [
