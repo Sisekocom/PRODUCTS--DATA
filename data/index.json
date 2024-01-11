@@ -39,65 +39,80 @@
     ],
     "testimonials": [
         {
-            "name": "Shawn",
-            "surname": "Louw",
+            "name": "Shawn Louw",
             "quotes": "He has a passsion for coding , it's evident that he wants to be here & he is a hard worker .",
-            "profile": "https://i.postimg.cc/g0D2YVv4/118120305-2826987657530004-2956659189373892947-n-removebg-preview.png"
+            "profile": "https://lh3.googleusercontent.com/fife/AGXqzDlsuoG95iJIn8K-L6HXi_jcYPCdHKjUz8eO51slkqDLuN[…]UD1Jrr22i0GfRpdQvX5B09K0XDHMogWQKx9ZhdQ=w656-h492-p-k-nu"
         },
         {
-            "name": "Sivuyisiwe ",
-            "surname": "Peter",
+            "name": "TARYYN-LEEE",
             "quotes": "Siseko is a dedicated , motivated and goal driven young man who is willing to put in all his efforts to make sure his goals are achieved .",
-            "profile": "https://i.postimg.cc/8PB3XZDy/1000094544-removebg-preview.png"
+            "profile": "https://lh3.googleusercontent.com/fife/AGXqzDnJ1R5gXVLbdHrXo0vIXD16QgKg6mj3tifJtlCh5jSLg_[…]R9gJ7wdZBeNZI3HXfzInxkcf0tffU6ho7ZYLIKg=w656-h492-p-k-nu"
         },
+         {
+            "name": "Simamkele Tancu",
+            "quotes": "He is a goal oriented and goal driven young man. He is displined and highly motivated to achieve his goals.",
+            "profile": "https://lh3.google.com/u/0/d/1jS45Jq1LDA1ddBO4u2pVwDgkbokxy0Hv=w1003-h892-iv1"
+        },
+         {
+            "name": "Damon Ruffel",
+            "quotes": "Siseko Enjoys exploring new technologies and finding creative solutions to challenges..Comfortable working in dynamic environments, He can quickly adapt to new tools and methodologies,A team player who values open communication and enjoys the collaborative aspect of coding projects.",
+            "profile": "https://lh3.googleusercontent.com/fife/AGXqzDn0XYAWzA57VeJdA5LGZZIsdLBA6ZX7AGgsQ0_BCgsUyj[…]CycMEr6bvmnBqG0VBwV0d7UnTNheIjkM4r_sgGA=w656-h492-p-k-nu"
+        },
+        
+        
         {
-            "name": "Anathi ",
-            "surname": "Josefu",
+            "name": "Anathi Josefu",
             "quotes": " Siseko is a problem-solver, and a commited person, commited to his work and he's focused when he puts his mind into something..",
-            "profile": "https://i.postimg.cc/tRdxmMvn/DSC-0316-removebg-preview.png"
+            "profile": "https://lh3.googleusercontent.com/fife/AGXqzDkEEeQSzmoLPmseTBHyaaB3F_lFtVWVbBF4u5BDmyCN78[…]n9THGZETq5J-4URkxsH5lx1EHz0NOfnqJS4p4zA=w656-h492-p-k-nu"
         },
         {
-            "name": "Onika ",
-            "surname": "Sileku",
+            "name": "Onika Sileku ",
             "quotes": "I have never seen a young man with so much dedication like him . He has a natural talent for breaking down complex concepts into easily digestible bits, making the learning process enjoyable and engaging. .",
-            "profile": "https://i.postimg.cc/HnRqG09S/image-1-removebg-preview.png"
+            "profile": "https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYTI1qWB_30f5Vlk7eHk9iFXi5V4KedJxC[…]9DO0tVokuoT-yQ9Ws-qp_iwdApKHJq3yXA-v-G6lgkqg=w1960-h7108"
         }
     ],
     "projects":[
+            {
+            "name": "Converter",
+            "description": "I built a website Using Html Css and Bootstrap 5 & Javascript",
+            "image": "https://lh3.googleusercontent.com/fife/AGXqzDnP7pIcfPcn35etcU_D-9Ar62VCGDSHy1qeS5atoLri_eZ88opKa__tUtlFO6GkivBoA0AL3sF2XEJCIFzGBSYaBkMRBbd37-4YOJUpNdJBZVm_nq3MtKO8qEOAMujksxZk9rodyrndllB8m9cRHP652HXz-rlFPhExIBL76_yilvoyr1UxzO19Wq6x3yANkMomPzQQlJOFpVcixdC2xGazC-96-1lG_WNRT_WvMiW6urHklRTFtWWSdzF_AGcO_txkBwncj9XY8kvTZVqqWhhL5dgPIZShWD-1NcDEJljPZ-RzdOe4XLu2p1ySCru1BFm2iMcqN8Q6Xj9Tx3XzLFNhEbkehQZDM0-cPN-Kg1vUMmoR3yYegp2MruXY0rPvdy4cTu770pUq36UNdcMXwfik3R48VVV2EICF4CBbf_mkyJfkZSsZ1XWSG0wGjr1RML2BKSkfqaI-hsDFfYnZDWfsL5R_Is2Q5wQSD2HxYBpmDZy5BFer3Z-pDcWloJkFhbCm5k8CyH6wFrbvWTe8_vNI95AyrX2Yi8I6gOPiqASgtWmlycyfmC0YrzB7u8meLDxlGf2V8N0ajf__xC1WNMk0ALCxENSIx-CJnPf-59GSAduL_SEdhgSVdlUcI9Z9HVl25fJmuVHseDflzMBuntKbQ4oF-TO8zAS8M0TvOb-pt5RKUmA0YqKHM7eHeTjJHhwpZQEukD4O6Xaqfws-_Ta5CLaPhJuNmuKbrzksjOhIuuOxCbRw09-ykOgcxwWqUexuB5SBR6vvT5FkVfJaAqzTr46l_qoTp1meKQ7VUQlayndjdXz4iPGbckbQ7vUczlOFydvrXS_XDkF4HMugpaH2h1dlrfQzfyj2oblQMjlQIc4niXklzh7K_3ig7nLyBSL70AqVYTp2Wi8NYnXmRcainO88Mu7YAv_ENwXR1r1C1C9MQa8a3OjbVUm_DIG-Jm39KKp1LMYxVtwVsHG0QWoz5DLmwS207PbX40QvKOf-ANFoUOWmRsUFuNyEybCCC2zuMjTdylZNeEDWN5450cfCi3GCKUsv-TcnbOZjvcV-xMWQe7-f5_7CfYgTuELW64fhwgyJf-c_0gH6hdYlWkvU1nw4OTRmqDrEtgaStJtu7titrsQP2oLOd0WIjQYYXjA8gdUzOreIoNwUWeC-izMU52PPZshcMNDjbV1RvSWFc7rAT9up8qq6pJ1nkUK_h-JbDybcoPW66cAt14jWQJgQmUu00PM2Q2Fd20NK0McnAUUr0GkPXrrTJomD1oFF-oslwJojwcESapTjUkOGYc35MvRyPy7scS2p-4PR-YpG-HIa8_7Qs9GKLEHASH2LOwU3SMzq--h_TGY63kDJrgJzBifhH3bJhN519CEqVi0RKGtZWeeIRMj1vEtyWSGESsoxksiRS76BaL4n594UdWvQIa2OVNwyCxKGMZcMqIQIzSTSFll0xnyIMIk-Xvf1qeobi2aZ0b7M_YXHmsJu235MnmLHZM_c_W_xjqJr5s3XynBFxwYpDQo=w1158-h907",
+            "gitHub": "https://github.com/Sisekocom/BMIcalculator.git",
+            "netlify": "https://lucent-granita-fd2530.netlify.app/"
+        },
         {
-            "name": "To-do List",
+            "name": "Minutes To Seconds Converter",
             "description": "I built this application using HTML 5, CSS, and Javascript.",
-            "image": "https://i.postimg.cc/tTF7RMr1/todoList.png",
-            "gitHub": "https://github.com/codjoelmayer/todoApp_js.git",
-            "netlify": "https://joel-todo-list.netlify.app/"
+            "image": "https://lh3.googleusercontent.com/fife/AGXqzDnzLolOxJDES1LFPfMGtWF6UFD0NGGxKvOzhWQj2_gu-gp3wCXWZvjKGk3FA-qVNesm54jfOgBzWSdVAojWIV1How7zGWTCu9FzSSM0b0dolswpUgmhxVzP2rz-huk0mimCqtEoGH_4PyF9212D8DdEfs9bZojn3C7wZeqbnraLuM_yy5bjR0bKFV90DlqB2laiA56DBPlknwLH3idXYoXVybeekhQt09s3bvUVq85nevzz9YPA_SPIKbGiw57_zPTgBZ455rOpCFE7zkfyTkK33ZQTTjD1K8o9pOis7ZWrTwySw3RoUfvmipp6BGOpcbKdQWcfm_YTSBKN2tUOL7PT-ghF5KMYEK_JFBLTAG1ascLx1fY_JfGZo64FIgFmeZBNHbOFk-reBZmOWQIqexZyYNOX3dliMPsjeaDq8_f1QU5bkJ5qWSAREF45FNaU_TkXkJjyJL4faomaf1eDpS468EseH73gOuEbtbnTZEw5rK3OnRIloTFW0reUp0dKwtttiypBH9SCW8lEe5ypFvOQ_jcXcAuaHQs0AU-oiurTtE5CYRSWVMmaEcZoD28szo3W7NFUStSTPIR2bIuz85HKYVulbw7hj0Ckt8JMPK1rs1HV8iN24IvoMPRtAtmgax1Qeoux1DqXMrjOuDT-QwrHDIlu_WHVtajM2c2UoPOEox1clmQ4M-ygbdsvPtpFyQaAFCEWZiNw8xuOHVktCIlNV5eGIIB2c5S5GJGYwDfAMuo213kAej5-SJe6oITkvWanziv6Xq00V32lSaDRlqTHyXeeKROqyJf9yEx_ulgrS4v6buexLAVxnc1b0oKXwtoZqqWpdhMKS-P8zyefZ0MMBvol3uFu1wRrPQuSQg7YaebD3yQ2EjmHUgmZmYnBa__L2jT5sY8za7ClcwGyAmhlX-4BVzhzB-u4sP3gkUESUqYzHaZpp-Q9RgTdwj7en6EkR3hM6CAr67CWbEBM1KCaXbQP9ipHX4hRBXHqZV4-IrV0puToWXeGR0YjOaX2zeCCWz9dSnVjmqMP2zw_B45QUT3MvQ4qsQA5SmchgP9M6TrQFQcUgU1RUOUy5tpbS7G6Wii2SFO2JcgFNjE7Tx2ogEeoQB_AG80dRRKwBTfrjrlpvxX7nYnDCwYVHA_rW55uwIWlnMa0MtGxOSsEuM1iFqj-BMS_QpDxmf9VyYANcEuqoFlnSBLfDZzzWrgE_UNYXrva3AHKds_gl7KQ968uDNrEXCNa3XzmxijvShmA7zmgq_XTHbGgMjBanxncmvPEZ69lhozmhdw20u-8g27QvFr3WFm-1G4RfvNhW07zyjEyRxhRg0Te_iJ4heWSODKNHeIr73mPcqFJkbP-FF2zO3hlPJRI_CM6jEqpcdLHqfoUVxOO7j3XGdBE3HyEynaFHhxpW6qMn7mDIGEDkJ_8MoZAU-wi4lb1iOuNjk8-wZYqsG7H-g9pwq_kMS9s61BsPfqMp_6Nmuq6J_ZHDzyy8JGY8lSxpFVcnxDX3cHHAzSb3m3Qofc=w1158-h907",
+            "gitHub": "https://github.com/Sisekocom/MinutesToseconds.git",
+            "netlify": "https://lucent-granita-fd2530.netlify.app/"
         },
         {
             "name": "Calculator",
             "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon.",
-            "image": "https://i.postimg.cc/cLGXn7SW/cal.png",
-            "gitHub": "https://github.com/Sisekocom/calculatorr.git",
-            "netlify": ""
+            "image": "https://lh3.googleusercontent.com/fife/AGXqzDn5Qh1FE9SwH8ivpTfvYX28STsknPbr4JltGtY_EidktKIxAwUyL1R2SaPTnc7oDLmZyq7blj8Jy-5b5BuVAfEm81eitoAjwG3PX9bek-28--I4QPfMeqeYMAnJ2Kms0hT1caFTDigG3KUrwRRcoTb90M2NY0Elp7tKCH9vI86A-UFN9xdryGZETuc731yAEoN5Nlk1iPLHvNqfDNexnIRpvNi7ovpSQZg5oUQDyQo_LylSoH_75Kiu-MQPCt97aHHHcMFD4eKpZzqcrbqzBKBbflRa38CKc0wVQNrGa7SkGyImLDtBR8lugZ82ZPuqnYUuIbNt4OtEf197nc-QeZaPy0tCw4TNlrwcNczt8tRsscAK7Ezi2DnDwKtIizRj-b_3c_jstLU-6bTcdFiiIs2bttZdf1K5Zu_0Pm5PSlumZtp7T0MGn6cG4ES708RUA21s9P8knkTuy-rlBWZBZX2nBrkO-5orAcKLyTPVjtaAk_KL3c5N7Nh0QbznHGvbBkAcnrP-CMOhHBrQxYN8WN-JHBWldssbmV3ogjsHEBfbNaT5vNPjRhpONFbyH2_YmAugabVgxVKZ6TYzgdKivW9rR0VlnpisJ4l_KFaTjJgDsBN5Z9GnQEKZVU64lklaKHPwAzD6Jny5CjxJ7UaNLQPProPvH3o1D0exEKD4ITNqKqNQuMO5vmbhBNoGqsAV_BsLQNEpX0BsKV3TXI9dyTeFrSU44HKeC7rSoiYmeaUoHIQBD9Ow9X-gf2WMP4_OL8moeFsKaYBfWCL1R8RUZvT-RE_2wwomkVGwmtUAQcncgaUxd8OiGkgaKAVqas7QUOumxlQr7wVJfl7reeGP2Bqs5uEh_iHL0qiGwSTK4jh4Epn-4hd-8hCLqkxPqo0KYoCp0dRzUGhE3N4ADX-7LJ3O4KxZmlCdTCgKsE0EkCjCXkVwQl2c16j9P_NNZB9sO5qOOl-Wxmafw5EwHFEEpPRIFQ6CAcqXOTwdsWjgE3fIB8po1OWsQfuBm7G7tGQUdSwBTnfeqbInPI576ZQWYk6WNILx6vOLbD9sQoxWcRy6N1_H8L00ndOdmUNfk2N1Q0ROINxcYghPoH69kt1_lqBxiZraWxhnsp8Iddq5Vd7MWqsgRnEx7tBhMIdrth9x_QxbW9fx9EuBhIVZCnxxJAYjko5YeCwE6AUX_gQAveYAIVdIhG-hkFfr7rEs_Pn1AHZ7sgZigpdBlIEvgl4bvhIuriXbG5MKwWFUQ7yVfSuvnt6VZ2pvrW-Ngx1eEBUQ0k8sjAytYQaJ1jJX3IsDO4PK-IWRQ0cApULcrLZA_bVvKMpMn8Ueg-eY_6LzwclTVFbEGpiwGsOM9YxkLBA0XAixNIn1J3Pw03Ea_2Q5INAiWl4cwmDFFBLrNfwJikpggqAAx2yANexyT2EdGXFk5m0hx6PDGOWB2YPvYLIsErgLQjrla78EgPr668IdqBWd2qoZcQQo9bAwbXIjX9FIsIy3J5sCxemr-h-itqoHH7XQW2rv7C0r9OQ=w1158-h907",
+            "gitHub": "https://github.com/Sisekocom/calculat.git",
+            "netlify": "https://calculatorl.netlify.app"
         },
         {
             "name": "KEYBOARD",
             "description": "MBC is an application I built for my client for selling products online. I make use of Vue3 JS, MySQL, APIs, and JSON Web Tokens.",
-            "image": "https://i.postimg.cc/cLGXn7SW/cal.png",
+            "image": "https://lh3.googleusercontent.com/fife/AGXqzDnd51nNGxycXBfI_O-pMXC1hL2nwkOqauT7wBwLeC7BCMUygQx-A7rni_pGBP0uoC4OhKq57iztQ-Gvcw-ZVjUCUmPN-5blhFGtJxGwD_M7hzF_dII0Eqmb4cx1TjxHTpacraUk_Jcu5eL9q8TXvocp1xjboNRUsu0w9HL5r3VpXgJQq9ABknwdXsJNsS4f34c2QCsFhw4Xj9QYCPmnlaD1CyF9X7wh7LzN0ATF86nZsUL_x5x99OznbstvGMzc-jP83XIloUr1-Dxf0YApyhJYD9fdyv1Gt2Rw8beAogIekrjz23wgBTaQg8ZxUWDpAdWrJgAI1V6ZXekzYT9zZHg3zW_jfV-T3ejFRlopnW7ZRi6_hfzKugAwxxUWbT12LEn52yBcvOY8f9zFQ-kkrJ9aFmUBp1tnnkgmqv08kXq2EsopzsEsWJ7IoqXNXiw3h944G-8pMedrd0e9jKPqwOTZDAQMewLfrKnGPdLE7N_BPExUxOim2RaMFv2vC2ydECfuwPciHn7ts7bUf4I-1eL2sV7DIFiHBJoZr5zRkCg2oEDZYfHarujvzBxsftlF7H5A2HbwrEJ001AvHAImppD4aRJeWupCJvIm0AO4JXdehC5yUPNLgTNiTd_FMqU0sJxBQsrqoIF9FmwV78-Jdu2HrOEVi8vcYnzGGfzl8LkDn02FoBZTFbbAuw15Ndl4YiyDagfb_TQBcpEpEVXaQIjukokpCWj8LGKbnyTd_1pSfSfVTFO8OVQCa8wG-ioN4Y5KvRHilsSA6JyXjIKTqkYUGplfoxK2wndUN_Xaxw-G83gufSiKxNxB1NzYSgU7EERH7fwhQjrsYjODYAer4Jg_ovlrlLK2gtbt0eLS6yNZZJcgUmCYpCeWRwEvzxkj-mUrRvIIj8zJkrwo0VwWhXDqpBX9kBxVsidSxt3Kx413Nh8wE4KAEnr4bxKKqV3ZsgFPUealVluhsDEwxgrVkJDsrw6-hnEGQ1gX0Wy_5Eqx6hM2GQW-4qRVS0x9J-n27mYvid9nTyAotFyWCJyR4i_C14eoMEjFDCt9krClhHq1b9_FQbf9IzNoIVt5UYvMLenQoA6VUCcswIpxxFrEgyVNThc9VDyuz-TP5xIlGAOaGuVorRs_35CYuSiQ6lTEyXhB-ksJhwHpZtlGbCf-mtr3QCAujrsnjaLa4_NycLbHLcqWDgrTs_inCX3ZGuVbkV1vjs0lLSX7LoF1jH531XgJaI3lyAhhFO8gGWn1MQ33xKijg8YVKnAnu88rgY5DldHw5QaQ5tatgkLwUzZD_PqopTZ60__7astIQuCr_NjaWxfwiO6CHNR1BZ9zL-4qIC3EdrPcyDP1GIqfcBRQsx7U305HWjZW_ylIZ-KVEeKZXsyFl3DIBAjiUqtSkA9fJFecBOIhPXXfllMmWZCR6ZyL_eMo6h4TJkQQ_Qi93lPDhOu5SCmCLt1pZSnqRiAbyqtvRSdgi0zVz0WlzZFDdg9MjQ4NXEwKJVhXEzwAUjSWCh-89gHMJHY=w1158-h907",
             "gitHub": "https://github.com/Sisekocom/calculator.git",
-            "netlify": "https://keeybboard.netlify.app/"
+            "netlify": "https://keeybboard.netlify.app"
         },
         {
             "name": "MOBICARE",
             "description": "I built a website Using Html Css and Bootstrap 5",
-            "image": "https://i.postimg.cc/yxrpLMF2/medicalnew-1.png",
+            "image": "https://lh3.googleusercontent.com/fife/AGXqzDkauZah8YGnCB1r8CzlbeyhniA02-mmuFXQF9TNF5yeaJJ-U4TkO13dXRFlJjAEkVMYKFzLkeuKCSGh4NYuKWsXsAKWDcr1PE3D6ti5z-1yf2l5JEfW8ar4LR7Jl9u8Gte32_-XK569t_CZs7tEDpjrxG9fga35KNBxzSqrtpm8UrXoNv8y1JY8ZTPTDFlaf8h4-olpjw8C9wI3X56WhZFux_KHp2DsXLWwV_gW-uhxfq9K57EsIs15HkdhrjSvnzHxUt7bQDHI4fJ9lDReio2nkFw3ahMV_PDB5GFGAEScYnjhF5Az4ITfkGh_o-e3cYBRURNsNjJ_uUH77mRWn1mSOu5F_XJ7xsQVilPN9mW-ghUAQDWg-VmdnzWEGvtsNk6GEOf5ULI-ypINvgLL3b-cARLy3_GK1N4qhVr7365cwhxVUE6OErJDR0CzcTWLKBd9srDCwBsNn9ImzRwa7WfOOYLn8wkPnKx-yrjxNpkPo_kVI9DLVy8n3tMauyWJxsshT-hIpgRvjlcEEje5Hz-rI0ktFULGdj7j93F0E1Rudhe5PGxYIwRJy-XyIf1zBb10jhDh9077KxMmAipiJIH6HO1ERv4eXF-tfHOuxHY_rLW_lXtv3I25wn-Kwgs8ZlUCUjmXRksAJADW7NTXs44QqH8JFmTl1kjxTvDvnH81bt6wnx1yT9jDWpXIgoUpQUt_FrjvMzqCuecCPCsMBRq1bJNpj471HnUg5V4l6FkKY9dkEhyhqUsNQw3-gfFye1-g7RSHZ_XY4JQ48wRTOh0AAG91KN3om9TAXYodLZAUWTbjMiF3WK03eXUt5dyml9pjrnQhrNWW1pn6Lrb9YaMGbssmNl-OjlkXJl-RNLrZP_wgKExJFq4Wt6WABXsH4lpfdmOTUKmtHbSvHvmn1ed1Necb-gg5wDfmV2SouFt4mg61CgTnji94NPGqxiBTl0SF7coL72ua3MQfozKW8dWwXg_j7hRr3qngGNgpB1KFlBimwoVqxpESmNGmUR96u914nCIVnOkL0mxsRAGrj4fRyF0MObOS7Nd7SmprzRUJ0pK45_VlviPeYv_q_V_EaC66i4AW1YWVIQaz2hEI5Ar_jUJYttx7iC_3jfeaB5aiCRYlOhnh_bn616DewdSqdxpulz9JqWbGS7GU1ee4pnv1_82weRILBdn4N87olhZzSie4aXS6WsU9xuTTlnskSuLnhDMtTpzq5vFmNMHbtRwVRs7_Lz07RNSnfjfzYBklWT45MP-zl5M7gnDCUAf_Jv5SFP_wghTiRtcw5xYKa_ww7Tw8n0HLBhdnOsU9k5Gy9tFkIq7PxyUlgz-dIhUxuLoR3DgxGBr9zCqrLH-ydzUUVw8A92DnOwDNLBwQdOc5b9yrh5FkSEgql0jLaGkgjNw29PClWOY4lJvxf1pjtlZ9w5NN4ReZIL4OLN8oHEqueIJvJXfDp7Lu8try_aZ_0-PXNEwky_3zEqRW4_Jk-zl-_EjsBG9oCmWEbgumLGwylGXYBf_x7rI=w1158-",
             "gitHub": "https://github.com/Sisekocom/Mobicare.git",
-            "netlify": "https://mobicare.netlify.app/"
+            "netlify": "https://mobicare.netlify.app"
         },
         {
             "name": "E-COMMERCE",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap, and Javascript. I am using JS to display my dynamic content.",
-            "image": "https://i.postimg.cc/T29YGkkW/ECOMMERCE.png",
+            "image": "https://lh3.googleusercontent.com/fife/AGXqzDncBvKDbOZaPYhjocm6PNprnaFeooiNwBcwBIXBApbUMb-kZfYG8jeBgx-7PXEmTeCJTkigEqX0Q8GIccAbzhNUu8RUJkCUNNENXlLa7fSJ8XeHXSnNbcBPzVxD9upsyBqyEvJDZVskCTsiqwxkLwrVzpMXF7WOYhoJfo_yYIcfTyvbpabEQxupwEE2b02wzyiIOI5rcwMFx35_K8PUTQDB8ykfoNEvrk1YRBdas87qpBCK0wreECy34PuZDR1S5jR8Awjq9gJsChkkJF-OLc_h9m021VRFfpdS_GJS0ymvXoA3quWOCOdLLaRp7uTrcKiyODPN9DmEEGpkbTS6jr9kNRXnzJGwlSpFUDO7bXXv-83PMPEfaJKEL9IfYusSiRiMftnfBcAsKT8vtAwQrJ_h-TgOWtVhMingw25xCI_J_zwhZV4Sc22GeDFI9s5YcFmHb83IK5Oue1_-eN7icdGcN7yLfoK4ikE46B-By_Z3MgCY0oQisv1DwqBem4ngCGhkxrNqLbN86kc9FoZgC8n5sWjf6KgA5NkT4pTD7RcR8Wdbm7K34Hzvw_ZsC0ootbJ_sKoi8XORT6_1ljbbhNq5XBTKPE0mxYr_1VMvRSs-fz5kb3YuiYGk3jmYklx_AJoNl2naE2YHqDJ0HyOaUMo5W8-UNn0X_ZVc3ygHI6tgJYM22XIsNetYU19jn_tzqESawidvWu3pij9NwyqfW5_nimFf3h_DNM1I197iA-BovGRVUK8mF3AGkVg3rWTcG4BI2bjlhblgY6FMingYglkEOlUbM4hIQKZ6TIGF4CUJDaPM7N6hgKsaPvVXm82T0-636to9ZNSju-prOMd_0Or1-Radw4-edYbYJzO9mCVTVCqbsDPBE185OvZnGV90XFennyKG-v96AdsyK6wOzr_xfz9LNoagitWXi_WM9bz7dvXn6hRSq8hRSkLMOO4f6Mzns-7Qd41v6SJWK-PHGpW2fB16ncjwGU3D4ERmcKov1VkiturgEQqUEWVyKVCyY548ZOooBjJXXET__irXdZBegX4QOZ0u3eQmygrPYd0E85sI6T4CN-HK2O2wJ0oWssvcFm8I7EGk7xJxnmYwlcqEUZYXLGLo26jWgmXBy15aMjqrhktyYBgZ6vix2rjQ_XLR7RTnx_gmsgfgGHK8vUya8OnPoj8q-0bcAQ8JlCshAQiD3IqiCgTFfOaF0AaNsP5QSWwZBt4ef908zvvYZHgsgK63VQogBV3sgqGdqgS5KvByWtwlXc3j0RR217qF_e0sacXGYcBT1WJmVNRBypTN9-8faP396RW3fXSszpKW8OHPmY36SquvpSATUzYLPGYJyOHfT2eupJ4SiCLfRMCrp3rPGJMBXkz_WKJDOHF9FD2nPcbOYITmJlGU3XNLgujVwbuLKn5Mo-hkNxE8Y2DbL8Mw9rIubKnce_Pu5XFjEHj-z9JOo4yna-k6nu_Ntnq6NEJQD2doFUllx9yH8zbDfA56lM34Mt_eb2n3--Qc5KEQha4aC6w=w1158-h907",
             "gitHub": "https://github.com/Sisekocom/E-commerce.git",
-            "netlify": "https://ecommerceweb7.netlify.app/"
+            "netlify": "https://sisekononyongoecommercecom.netlify.app"
         }
     ]
 }
