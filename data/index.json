@@ -15,7 +15,7 @@
         {
             "id": 1,
             "year": 2023,
-            "description": "I got my certificates on Software Development",
+            "description": "I got my certificate in Software Development",
             "place": "Codetelligence Academy",
             "type": "Higher certificate",
             "certificate": "https://drive.google.com/file/d/1-f1yRukcXLo0e8ip3Cb7Z3D29Er9ENn_/view"
@@ -23,9 +23,9 @@
         {
             "id": 2,
             "year": 2022,
-            "description": "I got my certificates on Human Resources & practices support",
+            "description": "I got my certificate in Human Resources & practices support",
             "place": "Icollege",
-            "type": "NQF level 4 certificate",
+            "type": "NQFL4 certificate",
             "certificate": "https://drive.google.com/file/d/1qd2xS-HvI4c_C4vf1-Z1R_bPxzF7SZ-t/view"
         }
 
